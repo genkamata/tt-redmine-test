@@ -101,7 +101,7 @@ group :test do
   gem "minitest"
   gem "rails-dom-testing"
   gem "mocha"
-  gem "simplecov", "~> 0.9.1", :require => false
+
   # For running UI tests
   gem "capybara"
   gem "selenium-webdriver"
